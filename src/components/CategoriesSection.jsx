@@ -10,8 +10,8 @@ const categories = [
   { title: 'Food and Beverage', imageUri: '/Food and Beverage.jpeg', link: '/Food' },
   { title: 'Personal Care', imageUri: '/Personal Care.jpeg', link: '/SelfCare' },
   { title: 'Household Items', imageUri: '/Household Items.jpeg', link: '/household' },
-  { title: 'Furniture', imageUri: '/Furniture.jpeg', link: '/furniture' },
-  { title: 'Best Find', imageUri: '/Best Finds.jpeg', link: '/best' }
+  { title: 'Furniture', imageUri: '/Furniture.jpg', link: '/furniture' },
+  { title: 'Best Find', imageUri: '/Best Finds.jpg', link: '/best' }
 ];
 
 const CategoriesSection = () => {
