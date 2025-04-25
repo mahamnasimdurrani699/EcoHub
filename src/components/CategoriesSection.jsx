@@ -2,11 +2,16 @@ import React from 'react';
 
 
 const categories = [
-  { title: 'Food and Beverage', imageUri: "public/Food and Beverage.jpeg",link: '/Food'  },
-  { title: 'Personal Care ', imageUri: "/public/Personal Care.jpeg", link :'/SelfCare' },
-  { title: 'Household Items', imageUri: "/public/Household Items.jpeg", link : "/household" },
-  { title: 'Furniture', imageUri: "/public/Furniture.jpg" ,link :'/furniture'},
-  { title: 'Best Find', imageUri: "/public/Best Finds.jpg" },
+  // { title: 'Food and Beverage', imageUri: "public/Food and Beverage.jpeg",link: '/Food'  },
+  // { title: 'Personal Care ', imageUri: "/public/Personal Care.jpeg", link :'/SelfCare' },
+  // { title: 'Household Items', imageUri: "/public/Household Items.jpeg", link : "/household" },
+  // { title: 'Furniture', imageUri: "/public/Furniture.jpg" ,link :'/furniture'},
+  // { title: 'Best Find', imageUri: "/public/Best Finds.jpg" },
+  { title: 'Food and Beverage', imageUri: '/Food and Beverage.jpeg', link: '/Food' },
+  { title: 'Personal Care', imageUri: '/Personal Care.jpeg', link: '/SelfCare' },
+  { title: 'Household Items', imageUri: '/Household Items.jpeg', link: '/household' },
+  { title: 'Furniture', imageUri: '/Furniture.jpeg', link: '/furniture' },
+  { title: 'Best Find', imageUri: '/Best Finds.jpeg', link: '/best' }
 ];
 
 const CategoriesSection = () => {
