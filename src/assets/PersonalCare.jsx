@@ -5,7 +5,7 @@ import soap from "../assets/soap.jpg";
 import miswak from "../assets/miswak.jpg";
 import kidsBrush from "../assets/kidsBrush.jpg";
 import hairremover from "../assets/hairremover.jpg";
-import toothbrushColoured from "../assets/toothbrushColoured.jpg";
+import toothbrushColoured from "../assets/ToothbrushColoured.jpg";
 import hairBrush from "../assets/hairBrush.jpg"
 import shampoo from "../assets/shampoo.jpg"
 
