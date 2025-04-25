@@ -11,7 +11,7 @@ const categories = [
   { title: 'Personal Care', imageUri: '/Personal Care.jpeg', link: '/SelfCare' },
   { title: 'Household Items', imageUri: '/Household Items.jpeg', link: '/household' },
   { title: 'Furniture', imageUri: '/Furniture.jpg', link: '/furniture' },
-  { title: 'Best Find', imageUri: '/Best Finds.jpg', link: '/best' }
+  { title: 'Best Find', imageUri: '/Best Finds.jpg', link: '/BestProducts' }
 ];
 
 const CategoriesSection = () => {
