@@ -8,7 +8,7 @@ import friesBox from "../assets/friesBox.webp";
 import plates from "../assets/plates.jpg";
 import  kitchenset from "../assets/kitchenset.jpg";
 import  spoonset from "../assets/spoonset.jpg";
-import  steelbottle from "../assets/steelbottle.jpg";
+import  steelbottle from "../assets/steelBottle.jpg";
 import  knottedSkewers from "../assets/knottedSkewers.webp";
 import  multipurposeBox from "../assets/multipurposeBox.webp";
 import  compartmentBowl from "../assets/compartmentBowl.jpg";
