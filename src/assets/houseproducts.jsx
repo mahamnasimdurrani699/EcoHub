@@ -1,5 +1,5 @@
 import Bag from "../assets/Bag.jpg";
-import airPurifier from "../assets/airpurifier.jpg";
+import airPurifier from "../assets/airPurifier.jpg";
 import basket from "../assets/basket.jpeg";
 import bulb from "../assets/bulb.jpeg";
 import candles from "../assets/candles.jpeg";
@@ -7,7 +7,7 @@ import decor from "../assets/decor.webp";
 import earbuds from "../assets/earbuds.webp";
 import fragrancebooster from "../assets/fragrancebooster.webp";
 import kichensponges from "../assets/kichensponges.webp";
-import kitcenTowel from "../assets/kitcentowel.jpeg";
+import kitcenTowel from "../assets/kitcenTowel.jpeg";
 import lamp from "../assets/lamp.jpeg";
 import napkins from "../assets/napkins.webp";
 import reusablebag from "../assets/reusablebag.webp";
