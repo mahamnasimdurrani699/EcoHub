@@ -21,7 +21,7 @@ import organicsoap from "../assets/organicsoap.jpg";
 import miswak from "../assets/miswak.jpg";
 import Bag from "../assets/Bag.jpg";
 import candles from "../assets/candles.jpeg";
-import airPurifier from "../assets/airpurifier.jpg";
+import airPurifier from "../assets/airPurifier.jpg";
 import hairremover from "../assets/hairremover.jpg";
 
 
