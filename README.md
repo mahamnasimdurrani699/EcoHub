@@ -4,7 +4,7 @@
 
 > 💡 Final Year Project – BS Information Technology  
 > Govt. Graduate College for Women, Wahdat Colony, Lahore  
-> Developed by: Syeda Aiza Fatima & Maham Nasim Durani
+> Developed by: Maham Nasim Durani
 
 ---
 
