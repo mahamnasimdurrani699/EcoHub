@@ -123,15 +123,6 @@ Required in `server/.env`:
 
 ---
 
-## 🙋 Authors
-
-- **Syeda Aiza Fatima** – Fullstack Dev & Team Lead  
-- **Maham Nasim Durani** – Frontend Lead & UI Specialist  
-
-> Advisor: *Ms. Umaira Nazar Hussain*
-
----
-
 ## 📄 License
 
 This project is for academic use only. For inquiries, please contact the project authors.
