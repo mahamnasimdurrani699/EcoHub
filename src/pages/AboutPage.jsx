@@ -18,7 +18,7 @@ const AboutPage = () => {
         
         <div className="mt-6 md:mt-0 md:ml-8 text-center md:text-left">
           <h2 className="text-2xl font-bold text-gray-800">
-            Maham Durrani & Syeda Aiza Naqvi
+            Maham Durrani 
           </h2>
           <h4 className="text-green-600 font-semibold mt-2">Web Developers</h4>
           <p className="text-gray-600 mt-4 leading-relaxed">
