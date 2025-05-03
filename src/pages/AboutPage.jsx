@@ -9,7 +9,7 @@ const AboutPage = () => {
         
       <div className="w-92 md:w-72 md:h-72 overflow-hidden rounded-full border-4 border-green-500 shadow-md">
           <img
-            src="public/girl.jpg" 
+            src="/public/girl.jpg" 
             alt="Team"
             className="w-full h-full object-cover"
           />
